@@ -1,19 +1,19 @@
 # 🏨 Hotel Booking Cancellations Dashboard
 
-### 👩🏻‍💼 THE SITUATION
+## 👩🏻‍💼 THE SITUATION
 The hotel industry is highly competitive, and cancellations can have a significant business impact. Understanding the reasons for cancellations and finding ways to reduce them is essential for maximizing revenue and improving the guest experience. Suppose a hotel manager of a small hotel chain in the Algarve in Portugal is struggling with increasing booking cancellations and hired me as a consultant to tackle this issue. 
 
-### ✏️ THE OBJECTIVE
+## ✏️ THE OBJECTIVE
 Create a dashboard that allows for an interactive analysis of booking cancellations. The dashbaord should enable the hotel manager to identify patterns and trends related to cancellations and provide insights into the reasons for cancellations and suggestions for reducing them. Ultimately, the goal is to help the hotel manager improve guest satisfaction and increase revenue by reducing cancellations.
 
-### 📈 THE DATASET
+## 📈 THE DATASET
 - The dataset, which includes information such as booking dates, cancellation dates, room type, length of stay, and customer demographics from October 2014 to September 2017 can be found on [kaggle](https://www.kaggle.com/code/barathsrinath/hotel-booking-cancellation/input)
 
-### 🛠 TOOLS
+## 🛠 TOOLS
 - Python for data cleaning and aggregations
 - Google Looker Studio for data visualization
 
-### 📊 DASHBOARD
+## 📊 DASHBOARD
 [Click here to access the interactive dashboard](https://lookerstudio.google.com/reporting/28d7ae26-2df9-467d-b9f6-955b3065e704)
 <details> 
 
@@ -24,7 +24,7 @@ Click here to see a preview of the first page of the dashboard
 <kbd><img width="1425" alt="dashboard page 1" src="https://github.com/beatriz-fc-leitao/Hotel-Dashboard-Looker-Studio/blob/main/dashboard_page1.png"></kbd>
 </details> 
 
-### 💡 BUSINESS INSIGHTS
+## 💡 BUSINESS INSIGHTS
 **🔍 General Insights**
 - The City Hotel has more cancellations than the Resort Hotel
 - Spring and summer are the seasons with the largest amount of cancellations over the years. These are also the months during which hotel rooms are priced the highest.
@@ -44,7 +44,7 @@ Click here to see a preview of the first page of the dashboard
 - Cancellation rates are lowest for bookings made with a non-refundable deposit.
 - Most cancellations occur in bookings made directly or in corporate bookings.
 
-### 📝 BUSINESS RECOMMENDATIONS
+## 📝 BUSINESS RECOMMENDATIONS
 Based on the insihgts derived from the dashboard above, to reduce the impact of cancellations, the hotel manager could:
 - Overbook during the high seasons (spring and summer) to avoid empty rooms as a result of cancellations. However, this needs to be done strategically and with caution.
 - Prioritize groups, as they have the lowest cancellation rate compared to other types of guests.
