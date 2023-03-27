@@ -15,6 +15,8 @@ Create a dashboard that allows for an interactive analysis of booking cancellati
 
 ### 📊 DASHBOARD
 [Click here to access the interactive dashboard](https://lookerstudio.google.com/reporting/28d7ae26-2df9-467d-b9f6-955b3065e704)
-<kbd><img width="1425" alt="dashboard screenshot" src="https://github.com/beatriz-fc-leitao/Hotel-Dashboard-Looker-Studio/blob/main/dashboard_page1.png"></kbd>
+
+<kbd><img src="https://github.com/beatriz-fc-leitao/Hotel-Dashboard-Looker-Studio/blob/main/dashboard_page1.png" width="750" height="480"></kbd>
+
 
 ### 📝 BUSINESS RECOMMENDATIONS
