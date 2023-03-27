@@ -30,27 +30,19 @@ Click here to see a preview of the first page of the dashboard
 - Spring and summer are the seasons with the largest amount of cancellations over the years. These are also the months during which hotel rooms are priced the highest.
 - Most cancellations occur around 2 months prior to the arrival date.
 
-<br>
-
 **👨‍💼 Customer Insights**
 - The majority of cancellations are made by individual travelers or small groups (transient guests).
 - The cheapest rooms have the largest amount of cancellations.
 - Guests that make special requests for their reservation are less likely to make a cancellation.
 
-<br>
-
 **🗺 Customer Geography Insights**
 - The majority of customers and cancellations come from Portuguese guests.
 - European guests typically reserve the least expensive rooms and provide the most advanced notice when cancelling.
-
-<br>
 
 **💳 Customer Acquisition Insights**
 - Cancellation rates are highest for bookings made without a deposit.
 - Cancellation rates are lowest for bookings made with a non-refundable deposit.
 - Most cancellations occur in bookings made directly or in corporate bookings.
-
-<br>
 
 ### 📝 BUSINESS RECOMMENDATIONS
 Based on the insihgts derived from the dashboard above, to reduce the impact of cancellations, the hotel manager could:
