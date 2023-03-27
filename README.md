@@ -15,8 +15,14 @@ Create a dashboard that allows for an interactive analysis of booking cancellati
 
 ### 📊 DASHBOARD
 [Click here to access the interactive dashboard](https://lookerstudio.google.com/reporting/28d7ae26-2df9-467d-b9f6-955b3065e704)
+<details> 
 
-<kbd><img src="https://github.com/beatriz-fc-leitao/Hotel-Dashboard-Looker-Studio/blob/main/dashboard_page1.png" width="750" height="850"></kbd>
+<summary>
+Click here to see a preview of the first page of the dashboard
+</summary>
+
+<kbd><img width="1425" alt="dashboard page 1" src="https://github.com/beatriz-fc-leitao/Hotel-Dashboard-Looker-Studio/blob/main/dashboard_page1.png"></kbd>
+</details> 
 
 ### 💡 BUSINESS INSIGHTS
 **🔍 General Insights**
@@ -37,14 +43,18 @@ Create a dashboard that allows for an interactive analysis of booking cancellati
 - The majority of customers and cancellations come from Portuguese guests.
 - European guests typically reserve the least expensive rooms and provide the most advanced notice when cancelling.
 
+<br>
+
 **💳 Customer Acquisition Insights**
 - Cancellation rates are highest for bookings made without a deposit.
 - Cancellation rates are lowest for bookings made with a non-refundable deposit.
 - Most cancellations occur in bookings made directly or in corporate bookings.
 
+<br>
+
 ### 📝 BUSINESS RECOMMENDATIONS
 Based on the insihgts derived from the dashboard above, to reduce the impact of cancellations, the hotel manager could:
-- Over book during the high seasons (spring and summer) to avoid empty rooms as a result of cancellations. However, this needs to be done strategically and with caution.
+- Overbook during the high seasons (spring and summer) to avoid empty rooms as a result of cancellations. However, this needs to be done strategically and with caution.
 - Prioritize groups, as they have the lowest cancellation rate compared to other types of guests.
 - Offer easy customization of bookings, as bookings with special requests are less likely to be cancelled.
 - Review cancellation policies of bookings coming from abroad as these are the bookings that tend to be cancelled closest to the scheduled arrival date
